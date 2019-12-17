@@ -1,7 +1,7 @@
 # KBHook
 
-This repo provide low level keylogger for windows systems.
-it use hooking on user32.dll
+This repo provides low level keylogger for windows systems.
+it uses hooking on user32.dll
 
 HookWin.go provides main functions to general hooking on user32.dll
 
